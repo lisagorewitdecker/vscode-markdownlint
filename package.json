@@ -39,7 +39,7 @@
 	"main": "./bundle",
 	"browser": "./bundle.web",
 	"dependencies": {
-		"ignore": "5.2.4",
+		"ignore": "6.0.2",
 		"js-yaml": "4.1.0",
 		"jsonc-parser": "3.2.0",
 		"markdown-it-texmath": "1.0.0",
