@@ -43,7 +43,7 @@
 		"js-yaml": "4.1.0",
 		"jsonc-parser": "3.2.0",
 		"markdown-it-texmath": "1.0.0",
-		"markdownlint": "0.27.0",
+		"markdownlint": "0.36.1",
 		"markdownlint-cli2": "0.6.0",
 		"minimatch": "10.0.1"
 	},
